@@ -1,6 +1,5 @@
 # remote-freelance-jobs
 
-#### Remote freelance
 * AngelList [https://angel.co/jobs](https://angel.co/jobs#find/f!{%22roles%22%3A[%22Software%20Engineer%22]%2C%22types%22%3A[%22contract%22]%2C%22remote%22%3Atrue})
 * Clevertech http://www.clevertech.biz/
 * Crew https://crew.co/
@@ -22,6 +21,7 @@
 * Working Not Working https://workingnotworking.com
 * Workstate http://www.workstate.com/
 
-##### For remote full-time, see:
+
+###### For remote full-time jobs, see:
 * [remote-jobs](https://github.com/jessicard/remote-jobs)
 * [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
