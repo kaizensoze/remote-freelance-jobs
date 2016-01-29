@@ -4,6 +4,7 @@
 * Clevertech http://www.clevertech.biz/
 * Crew https://crew.co/
 * Gigster https://gigster.com/
+* Gun.io https://gun.io/
 * HappyFunCorp http://happyfuncorp.com
 * Hired https://hired.com/contract-jobs
 * HN Hiring http://hnhiring.me/
