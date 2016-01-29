@@ -23,5 +23,5 @@
 * Workstate http://www.workstate.com/
 
 #### Remote full-time
-* [remote-jobs](jessicard/remote-jobs)
-* [awesome-remote-job](lukasz-madon/awesome-remote-job)
+* [remote-jobs](https://github.com/jessicard/remote-jobs)
+* [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
