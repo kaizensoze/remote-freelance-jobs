@@ -22,7 +22,7 @@
 * Working Not Working https://workingnotworking.com
 * Workstate http://www.workstate.com/
 
-
-###### For remote full-time jobs, see:
+<br>
+##### For remote full-time jobs, see:
 * [remote-jobs](https://github.com/jessicard/remote-jobs)
 * [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
