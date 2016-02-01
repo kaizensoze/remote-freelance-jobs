@@ -23,6 +23,6 @@
 * Workstate http://www.workstate.com/
 
 <br>
-##### For remote full-time jobs, see:
+##### For remote full-time jobs:
 * [remote-jobs](https://github.com/jessicard/remote-jobs)
 * [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
