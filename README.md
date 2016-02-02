@@ -3,6 +3,7 @@
 * AngelList [https://angel.co/jobs](https://angel.co/jobs#find/f!{%22roles%22%3A[%22Software%20Engineer%22]%2C%22types%22%3A[%22contract%22]%2C%22remote%22%3Atrue})
 * Clevertech http://www.clevertech.biz/
 * Crew https://crew.co/
+* Freelancer https://www.freelancer.com/
 * Gigster https://gigster.com/
 * Gun.io https://gun.io/
 * HappyFunCorp http://happyfuncorp.com
@@ -18,6 +19,7 @@
 * Stack Overflow https://careers.stackoverflow.com/jobs?type=contract&allowsremote=true
 * Teamed.io http://www.teamed.io/
 * Toptal http://www.toptal.com/
+* Upwork https://www.upwork.com/
 * Working Nomads http://www.workingnomads.co/jobs
 * Working Not Working https://workingnotworking.com
 * Workstate http://www.workstate.com/
