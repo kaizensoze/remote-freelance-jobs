@@ -11,6 +11,7 @@
 * LiquidTalent http://www.liquidtalent.com/
 * Metova https://metova.com/
 * Mirror http://mirrorplacement.com/
+* Mobomo https://www.mobomo.com/
 * Mokriya http://mokriya.com/
 * Orangecaffeine http://www.orangecaffeine.com/
 * Ramotion https://ramotion.com/
