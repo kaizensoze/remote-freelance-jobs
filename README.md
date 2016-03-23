@@ -9,6 +9,7 @@
 * Hired https://hired.com/contract-jobs
 * HN Hiring http://hnhiring.me/
 * LiquidTalent http://www.liquidtalent.com/
+* Maark http://maark.com/index.html
 * Metova https://metova.com/
 * Mirror http://mirrorplacement.com/
 * Mobomo https://www.mobomo.com/
