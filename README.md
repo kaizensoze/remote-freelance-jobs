@@ -25,7 +25,6 @@
 * Teamed.io http://www.teamed.io/
 * Tiny Hearts http://www.tinyhearts.com/
 * Toptal http://www.toptal.com/
-* Ustwo https://ustwo.com/
 * Working Nomads http://www.workingnomads.co/jobs
 * Working Not Working https://workingnotworking.com
 * Workstate http://www.workstate.com/
