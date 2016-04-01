@@ -36,5 +36,3 @@
 ##### For remote full-time jobs:
 * [remote-jobs](https://github.com/jessicard/remote-jobs)
 * [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
-
-If you contact any of these companies and they say they're only really looking for on-site, feel free to submit a pull request to remove them.
