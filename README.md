@@ -33,6 +33,6 @@
 * Bountysource https://www.bountysource.com/
 * CodeMill http://codemill.io
 
-##### For remote full-time jobs
+##### Remote full-time
 * [remote-jobs](https://github.com/jessicard/remote-jobs)
 * [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
