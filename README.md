@@ -29,10 +29,10 @@
 * Working Not Working https://workingnotworking.com
 * Workstate http://www.workstate.com/
 
-##### Bounties:
+##### Bounties
 * Bountysource https://www.bountysource.com/
 * CodeMill http://codemill.io
 
-##### For remote full-time jobs:
+##### For remote full-time jobs
 * [remote-jobs](https://github.com/jessicard/remote-jobs)
 * [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
