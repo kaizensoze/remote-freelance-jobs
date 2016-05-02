@@ -10,6 +10,7 @@
 * Hired https://hired.com/contract-jobs
 * HN Hiring http://hnhiring.me/
 * LiquidTalent http://www.liquidtalent.com/
+* LocalSolo https://localsolo.com/
 * Maark http://maark.com/index.html
 * Metova https://metova.com/
 * Mobomo https://www.mobomo.com/
