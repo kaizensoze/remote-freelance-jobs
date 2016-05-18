@@ -15,6 +15,7 @@
 * Metova https://metova.com/
 * Mobomo https://www.mobomo.com/
 * Mokriya http://mokriya.com/
+* NODESK http://nodesk.co/remote-work/
 * Orangecaffeine http://www.orangecaffeine.com/
 * Ramotion https://ramotion.com/
 * Remote OK https://remoteok.io/
