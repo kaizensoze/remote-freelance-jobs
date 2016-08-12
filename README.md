@@ -32,7 +32,6 @@
 
 ##### Bounties
 * Bountysource https://www.bountysource.com/
-* CodeMill http://codemill.io
 
 ##### Remote full-time
 * [remote-jobs](https://github.com/jessicard/remote-jobs)
