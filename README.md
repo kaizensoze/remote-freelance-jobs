@@ -26,6 +26,7 @@
 * Teamed.io http://www.teamed.io/
 * Tiny Hearts http://www.tinyhearts.com/
 * Toptal http://www.toptal.com/
+* Who is Hiring? https://whoishiring.io/
 * Working Nomads http://www.workingnomads.co/jobs
 * Working Not Working https://workingnotworking.com
 * Workstate http://www.workstate.com/
