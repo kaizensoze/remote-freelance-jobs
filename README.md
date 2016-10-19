@@ -15,6 +15,7 @@
 * NODESK http://nodesk.co/remote-work/
 * Orangecaffeine http://www.orangecaffeine.com/
 * Ramotion https://ramotion.com/
+* RemoteBase https://remotebase.io/
 * Remote OK https://remoteok.io/
 * Savvy Apps http://savvyapps.com/
 * Sourcebits http://sourcebits.com/
