@@ -7,6 +7,7 @@
 * Gun.io https://gun.io/
 * HappyFunCorp http://happyfuncorp.com
 * HN Hiring http://hnhiring.me/
+* Invonto http://www.invonto.com/
 * LocalSolo https://localsolo.com/
 * Maark http://maark.com/index.html
 * Metova https://metova.com/
