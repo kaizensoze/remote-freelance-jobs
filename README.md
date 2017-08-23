@@ -15,7 +15,6 @@
 * Mobomo https://www.mobomo.com/
 * Mokriya http://mokriya.com/
 * NODESK http://nodesk.co/remote-work/
-* Orangecaffeine http://www.orangecaffeine.com/
 * Prolific Interactive http://prolificinteractive.com/
 * Ramotion https://ramotion.com/
 * RemoteBase https://remotebase.io/
