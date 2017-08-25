@@ -25,7 +25,6 @@
 * Stack Overflow https://careers.stackoverflow.com/jobs?type=contract&allowsremote=true
 * Tanooki Labs http://tanookilabs.com/
 * Teamed.io http://www.teamed.io/
-* Tiny Hearts http://www.tinyhearts.com/
 * Toptal http://www.toptal.com/
 * Who is Hiring? https://whoishiring.io/
 * Woo.io https://woo.io
