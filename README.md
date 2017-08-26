@@ -1,6 +1,7 @@
 ## Remote Freelance
 * AngelList https://angel.co/jobs
 * Clevertech http://www.clevertech.biz/
+* Craigslist https://newyork.craigslist.org/search/sof?employment_type=3
 * Crew https://crew.co/
 * FivePackCreative http://www.fivepackcreative.com/
 * Gigster https://gigster.com/
