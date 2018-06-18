@@ -33,7 +33,6 @@
 * Woo.io https://woo.io
 * Working Nomads http://www.workingnomads.co/jobs
 * Working Not Working https://workingnotworking.com
-* Workstate http://www.workstate.com/
 
 ## Remote Full Time
 * [remote-jobs](https://github.com/jessicard/remote-jobs)
