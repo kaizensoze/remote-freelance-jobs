@@ -8,7 +8,6 @@
 * FivePackCreative http://www.fivepackcreative.com/
 * Gigster https://gigster.com/
 * GitHub https://jobs.github.com/positions?description=&location=remote
-* Gun.io https://gun.io/
 * HappyFunCorp http://happyfuncorp.com
 * HN Hiring http://hnhiring.me/
 * Invonto https://www.invonto.com/
