@@ -30,7 +30,6 @@
 * Teamed.io http://www.teamed.io/
 * Toptal http://www.toptal.com/
 * Who is Hiring? https://whoishiring.io/
-* Woo.io https://woo.io
 * Working Nomads http://www.workingnomads.co/jobs
 * Working Not Working https://workingnotworking.com
 
