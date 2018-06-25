@@ -8,9 +8,11 @@
 * FivePackCreative http://www.fivepackcreative.com/
 * Gigster https://gigster.com/
 * GitHub https://jobs.github.com/positions?description=&location=remote
+* Golangprojects https://www.golangprojects.com/golang-remote-jobs.html
 * HappyFunCorp http://happyfuncorp.com
 * HN Hiring http://hnhiring.me/
 * Invonto https://www.invonto.com/
+* Jobhunt.ai https://jobhunt.ai/machinelearning-remote-jobs.html
 * LocalSolo https://localsolo.com/
 * Maark http://maark.com/index.html
 * Metova https://metova.com/
