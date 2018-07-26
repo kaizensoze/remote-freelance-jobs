@@ -24,6 +24,7 @@
 * RemoteBase https://remotebase.io/
 * Remote OK https://remoteok.io/
 * Savvy Apps http://savvyapps.com/
+* Soshace https://soshace.com/
 * Sourcebits http://sourcebits.com/
 * Spies & Assassins http://spies.ws/
 * Stack Overflow https://careers.stackoverflow.com/jobs?type=contract&allowsremote=true
