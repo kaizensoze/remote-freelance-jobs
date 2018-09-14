@@ -34,7 +34,7 @@
 * Who is Hiring? https://whoishiring.io/
 * Working Nomads http://www.workingnomads.co/jobs
 * Working Not Working https://workingnotworking.com
-*We Work Remotely https://weworkremotely.com/
+* We Work Remotely https://weworkremotely.com/
 
 ## Remote Full Time
 * [remote-jobs](https://github.com/jessicard/remote-jobs)
