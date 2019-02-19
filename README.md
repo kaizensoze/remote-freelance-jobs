@@ -5,6 +5,7 @@
 * Codestunts https://codestunts.com
 * Craigslist https://newyork.craigslist.org/search/sof?employment_type=3
 * Crew https://crew.co/
+* digitalminds.io https://www.digitalminds.io/
 * FivePackCreative http://www.fivepackcreative.com/
 * Gigster https://gigster.com/
 * GitHub https://jobs.github.com/positions?description=&location=remote
