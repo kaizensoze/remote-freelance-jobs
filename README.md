@@ -21,8 +21,8 @@
 * NODESK http://nodesk.co/remote-work/
 * Prolific Interactive http://prolificinteractive.com/
 * Ramotion https://ramotion.com/
-* RemoteBase https://remotebase.io/
 * Remote OK https://remoteok.io/
+* RemoteRole https://remoterole.com/
 * Savvy Apps http://savvyapps.com/
 * Soshace https://soshace.com/
 * Sourcebits http://sourcebits.com/
