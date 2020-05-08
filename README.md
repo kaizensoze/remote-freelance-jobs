@@ -6,6 +6,7 @@
 * Craigslist https://newyork.craigslist.org/search/sof?employment_type=3
 * Crew https://crew.co/
 * FivePackCreative http://www.fivepackcreative.com/
+* FreshRemote.work https://freshremote.work/
 * Gigster https://gigster.com/
 * GitHub https://jobs.github.com/positions?description=&location=remote
 * Golangprojects https://www.golangprojects.com/golang-remote-jobs.html
