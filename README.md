@@ -38,6 +38,7 @@
 ## Remote Full Time
 * [remote-jobs](https://github.com/jessicard/remote-jobs)
 * [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
+* [remote 4 day workweek jobs](https://okjob.io/remote-4-day-work-week/)
 
 ## Bounty
 * Bountysource https://www.bountysource.com/
