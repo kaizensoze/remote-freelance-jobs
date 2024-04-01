@@ -1,5 +1,6 @@
 ## Remote Freelance
 * AngelList https://angel.co/jobs
+* Bing Pros https://www.bing.com/pros/onboarding?utmsource=fbrep&mkt=en-us
 * Clevertech http://www.clevertech.biz/
 * Codeable http://codeable.io/
 * Codestunts https://codestunts.com
