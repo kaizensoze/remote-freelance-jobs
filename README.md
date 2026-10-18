@@ -1,4 +1,5 @@
 ## Remote Freelance
+* AI Trainer Jobs https://aitrainer.jobs/
 * AngelList https://angel.co/jobs
 * Clevertech http://www.clevertech.biz/
 * Codeable http://codeable.io/
