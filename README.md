@@ -12,6 +12,7 @@
 * HappyFunCorp http://happyfuncorp.com
 * HN Hiring http://hnhiring.me/
 * Invonto https://www.invonto.com/
+* Jaabz https://jaabz.com/
 * Jobhunt.ai https://jobhunt.ai/machinelearning-remote-jobs.html
 * LocalSolo https://localsolo.com/
 * Maark http://maark.com/index.html
